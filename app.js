@@ -11,3 +11,9 @@ while(num < max){
 }
 
 alert('2を掛け続けて' + max + 'を超えるのに必要だった回数は' + count + '回です');
+
+
+
+// console.log(x); // undefined
+// var x = 5;
+// console.log(x); // 5
